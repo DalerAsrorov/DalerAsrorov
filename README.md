@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <a href="https://build.nvidia.com/explore/discover">NVDIDIA API Catalog</a>
+- 🔭 I’m currently working on <a href="https://build.nvidia.com/explore/discover" target="_blank">NVIDIA API Catalog</a>
 - 🌱 I’m currently investigating new 3D visualization optimization strategies
 - 🤔 I’m looking for help with finding Nemo
 
